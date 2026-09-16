@@ -1,4 +1,4 @@
 # gitdemoP1
-samplepreogramp1
+sample programp1
 welcome to git and github
 this is the 3rd commit
